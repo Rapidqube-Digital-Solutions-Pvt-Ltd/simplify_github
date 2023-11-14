@@ -1,0 +1,7 @@
+.env
+.env.encrypted
+.env2
+*.txt
+*.log
+auto-accept-invite.py
+.encryption_key
