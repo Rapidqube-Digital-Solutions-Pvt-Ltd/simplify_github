@@ -21,7 +21,7 @@ Ensure you have Python installed on your system.
 
 Clone this repository:
 
-git clone https://github.com/mohanrajpb/simplify_github.git
+git clone https://github.com/rapidqube-digital-solutions/simplify_github.git
 
 cd simplify_github
 
